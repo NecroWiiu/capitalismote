@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "wheat",
+      "count": 48
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:bread"
+      ],
+      "count": 16
+    }
+  ]
+}

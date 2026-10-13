@@ -1,0 +1,30 @@
+{
+  "tier": 1,
+  "wage": 1300,
+  "kit": [
+    {
+      "item": "iron_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "torch",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "minecraft:stone_bricks",
+        "minecraft:bricks",
+        "minecraft:cobblestone",
+        "minecraft:stone",
+        "minecraft:deepslate_bricks",
+        "minecraft:smooth_stone",
+        "minecraft:sandstone",
+        "minecraft:andesite"
+      ],
+      "count": 128
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1300,
+  "kit": [
+    {
+      "item": "leather_boots",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:walk_one_cm"
+      ],
+      "count": 150000
+    }
+  ]
+}

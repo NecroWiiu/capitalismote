@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1100,
+  "kit": [
+    {
+      "item": "iron_shovel",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:clay"
+      ],
+      "count": 48
+    }
+  ]
+}

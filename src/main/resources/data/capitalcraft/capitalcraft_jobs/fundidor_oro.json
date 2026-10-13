@@ -1,0 +1,23 @@
+{
+  "tier": 2,
+  "wage": 2000,
+  "kit": [
+    {
+      "item": "furnace",
+      "count": 2
+    },
+    {
+      "item": "coal",
+      "count": 24
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:gold_ingot"
+      ],
+      "count": 16
+    }
+  ]
+}

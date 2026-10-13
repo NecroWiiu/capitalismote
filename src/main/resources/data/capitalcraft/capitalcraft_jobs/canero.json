@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "iron_axe",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:sugar_cane"
+      ],
+      "count": 64
+    }
+  ]
+}

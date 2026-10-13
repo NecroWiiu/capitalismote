@@ -1,0 +1,23 @@
+{
+  "tier": 1,
+  "wage": 900,
+  "kit": [
+    {
+      "item": "iron_axe",
+      "count": 1
+    },
+    {
+      "item": "oak_sapling",
+      "count": 24
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "#minecraft:saplings"
+      ],
+      "count": 24
+    }
+  ]
+}

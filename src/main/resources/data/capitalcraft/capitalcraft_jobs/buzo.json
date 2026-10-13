@@ -1,0 +1,19 @@
+{
+  "tier": 2,
+  "wage": 1600,
+  "kit": [
+    {
+      "item": "turtle_helmet",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:swim_one_cm"
+      ],
+      "count": 30000
+    }
+  ]
+}

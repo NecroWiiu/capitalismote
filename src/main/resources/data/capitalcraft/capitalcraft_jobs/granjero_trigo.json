@@ -1,0 +1,30 @@
+{
+  "tier": 1,
+  "wage": 1100,
+  "kit": [
+    {
+      "item": "iron_hoe",
+      "count": 1
+    },
+    {
+      "item": "wheat_seeds",
+      "count": 40
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "minecraft:wheat_seeds"
+      ],
+      "count": 32
+    },
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:wheat"
+      ],
+      "count": 48
+    }
+  ]
+}

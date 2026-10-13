@@ -1,0 +1,23 @@
+{
+  "tier": 2,
+  "wage": 1300,
+  "kit": [
+    {
+      "item": "paper",
+      "count": 24
+    },
+    {
+      "item": "leather",
+      "count": 8
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:book"
+      ],
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1400,
+  "kit": [
+    {
+      "item": "fishing_rod",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:fish_caught"
+      ],
+      "count": 8
+    }
+  ]
+}

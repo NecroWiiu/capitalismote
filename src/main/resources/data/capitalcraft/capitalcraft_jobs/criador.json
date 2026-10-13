@@ -1,0 +1,23 @@
+{
+  "tier": 2,
+  "wage": 1500,
+  "kit": [
+    {
+      "item": "wheat",
+      "count": 16
+    },
+    {
+      "item": "carrot",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:animals_bred"
+      ],
+      "count": 8
+    }
+  ]
+}

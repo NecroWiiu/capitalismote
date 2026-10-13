@@ -1,0 +1,23 @@
+{
+  "tier": 3,
+  "wage": 3400,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:enderman"
+      ],
+      "count": 4
+    }
+  ]
+}

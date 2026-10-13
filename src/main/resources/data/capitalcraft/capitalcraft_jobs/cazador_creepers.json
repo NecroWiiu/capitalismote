@@ -1,0 +1,31 @@
+{
+  "tier": 3,
+  "wage": 2800,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    },
+    {
+      "item": "bow",
+      "count": 1
+    },
+    {
+      "item": "arrow",
+      "count": 32
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:creeper"
+      ],
+      "count": 6
+    }
+  ]
+}

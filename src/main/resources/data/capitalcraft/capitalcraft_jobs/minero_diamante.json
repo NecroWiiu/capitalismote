@@ -1,0 +1,24 @@
+{
+  "tier": 3,
+  "wage": 3600,
+  "kit": [
+    {
+      "item": "iron_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "torch",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:diamond_ore",
+        "minecraft:deepslate_diamond_ore"
+      ],
+      "count": 8
+    }
+  ]
+}

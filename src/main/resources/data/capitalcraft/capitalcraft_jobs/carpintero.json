@@ -1,0 +1,26 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "crafting_table",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "#minecraft:planks"
+      ],
+      "count": 64
+    },
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:stick"
+      ],
+      "count": 32
+    }
+  ]
+}

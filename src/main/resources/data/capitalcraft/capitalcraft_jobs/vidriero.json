@@ -1,0 +1,23 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "furnace",
+      "count": 2
+    },
+    {
+      "item": "coal",
+      "count": 24
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:glass"
+      ],
+      "count": 64
+    }
+  ]
+}

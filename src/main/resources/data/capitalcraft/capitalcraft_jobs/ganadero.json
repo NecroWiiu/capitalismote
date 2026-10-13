@@ -1,0 +1,27 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:cow",
+        "minecraft:pig",
+        "minecraft:sheep",
+        "minecraft:chicken",
+        "minecraft:rabbit"
+      ],
+      "count": 16
+    }
+  ]
+}

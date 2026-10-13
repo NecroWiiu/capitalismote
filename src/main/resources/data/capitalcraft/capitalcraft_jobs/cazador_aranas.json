@@ -1,0 +1,24 @@
+{
+  "tier": 2,
+  "wage": 1800,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:spider",
+        "minecraft:cave_spider"
+      ],
+      "count": 10
+    }
+  ]
+}

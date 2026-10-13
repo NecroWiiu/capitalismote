@@ -1,0 +1,19 @@
+{
+  "tier": 2,
+  "wage": 1800,
+  "kit": [
+    {
+      "item": "crafting_table",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:firework_rocket"
+      ],
+      "count": 16
+    }
+  ]
+}

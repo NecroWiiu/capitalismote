@@ -1,0 +1,24 @@
+{
+  "tier": 2,
+  "wage": 1500,
+  "kit": [
+    {
+      "item": "iron_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "torch",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:iron_ore",
+        "minecraft:deepslate_iron_ore"
+      ],
+      "count": 32
+    }
+  ]
+}

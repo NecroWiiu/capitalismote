@@ -1,0 +1,23 @@
+{
+  "tier": 2,
+  "wage": 2300,
+  "kit": [
+    {
+      "item": "iron_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "torch",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:nether_quartz_ore"
+      ],
+      "count": 24
+    }
+  ]
+}

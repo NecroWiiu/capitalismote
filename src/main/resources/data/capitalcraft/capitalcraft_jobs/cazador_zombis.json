@@ -1,0 +1,26 @@
+{
+  "tier": 2,
+  "wage": 1700,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:zombie",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:zombie_villager"
+      ],
+      "count": 12
+    }
+  ]
+}

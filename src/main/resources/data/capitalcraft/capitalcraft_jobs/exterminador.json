@@ -1,0 +1,33 @@
+{
+  "tier": 2,
+  "wage": 1800,
+  "kit": [
+    {
+      "item": "iron_sword",
+      "count": 1
+    },
+    {
+      "item": "shield",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "kill",
+      "targets": [
+        "minecraft:zombie",
+        "minecraft:skeleton",
+        "minecraft:spider",
+        "minecraft:creeper",
+        "minecraft:cave_spider",
+        "minecraft:witch",
+        "minecraft:drowned",
+        "minecraft:husk",
+        "minecraft:stray",
+        "minecraft:slime",
+        "minecraft:zombie_villager"
+      ],
+      "count": 15
+    }
+  ]
+}

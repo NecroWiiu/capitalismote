@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "sugar_cane",
+      "count": 48
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:paper"
+      ],
+      "count": 48
+    }
+  ]
+}

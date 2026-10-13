@@ -1,0 +1,19 @@
+{
+  "tier": 2,
+  "wage": 1600,
+  "kit": [
+    {
+      "item": "lapis_lazuli",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:enchant_item"
+      ],
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tier": 2,
+  "wage": 1500,
+  "kit": [
+    {
+      "item": "oak_boat",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:boat_one_cm"
+      ],
+      "count": 50000
+    }
+  ]
+}

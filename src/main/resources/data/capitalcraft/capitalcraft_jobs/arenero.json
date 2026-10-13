@@ -1,0 +1,27 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "iron_shovel",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:sand",
+        "minecraft:red_sand"
+      ],
+      "count": 96
+    },
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:gravel"
+      ],
+      "count": 64
+    }
+  ]
+}

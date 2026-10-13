@@ -1,0 +1,15 @@
+{
+  "tier": 3,
+  "wage": 3600,
+  "kit": [],
+  "objectives": [
+    {
+      "type": "counter",
+      "targets": [
+        "mined_usd"
+      ],
+      "count": 12000
+    }
+  ],
+  "requires_gpu": true
+}

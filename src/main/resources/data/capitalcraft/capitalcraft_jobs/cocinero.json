@@ -1,0 +1,31 @@
+{
+  "tier": 1,
+  "wage": 1100,
+  "kit": [
+    {
+      "item": "furnace",
+      "count": 2
+    },
+    {
+      "item": "coal",
+      "count": 24
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:cooked_beef",
+        "minecraft:cooked_porkchop",
+        "minecraft:cooked_chicken",
+        "minecraft:cooked_mutton",
+        "minecraft:cooked_rabbit",
+        "minecraft:cooked_cod",
+        "minecraft:cooked_salmon",
+        "minecraft:baked_potato",
+        "minecraft:bread"
+      ],
+      "count": 40
+    }
+  ]
+}

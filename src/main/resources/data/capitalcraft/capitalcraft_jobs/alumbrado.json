@@ -1,0 +1,23 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "coal",
+      "count": 12
+    },
+    {
+      "item": "stick",
+      "count": 12
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "minecraft:torch"
+      ],
+      "count": 64
+    }
+  ]
+}

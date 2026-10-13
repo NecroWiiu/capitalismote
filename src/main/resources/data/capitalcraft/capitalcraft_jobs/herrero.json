@@ -1,0 +1,27 @@
+{
+  "tier": 2,
+  "wage": 2000,
+  "kit": [
+    {
+      "item": "furnace",
+      "count": 1
+    },
+    {
+      "item": "coal",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:iron_sword",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_axe",
+        "minecraft:iron_shovel",
+        "minecraft:iron_hoe"
+      ],
+      "count": 4
+    }
+  ]
+}

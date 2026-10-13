@@ -1,0 +1,14 @@
+{
+  "tier": 1,
+  "wage": 1500,
+  "kit": [],
+  "objectives": [
+    {
+      "type": "counter",
+      "targets": [
+        "wagered"
+      ],
+      "count": 5000
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tier": 2,
+  "wage": 1500,
+  "kit": [
+    {
+      "item": "crafting_table",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:chest"
+      ],
+      "count": 6
+    },
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:ladder"
+      ],
+      "count": 16
+    }
+  ]
+}

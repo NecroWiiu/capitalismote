@@ -1,0 +1,24 @@
+{
+  "tier": 1,
+  "wage": 900,
+  "kit": [
+    {
+      "item": "iron_shovel",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:dirt",
+        "minecraft:grass_block",
+        "minecraft:coarse_dirt",
+        "minecraft:podzol",
+        "minecraft:rooted_dirt",
+        "minecraft:mycelium"
+      ],
+      "count": 160
+    }
+  ]
+}

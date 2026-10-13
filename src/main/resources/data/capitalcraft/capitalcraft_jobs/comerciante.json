@@ -1,0 +1,19 @@
+{
+  "tier": 2,
+  "wage": 1900,
+  "kit": [
+    {
+      "item": "emerald",
+      "count": 4
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:traded_with_villager"
+      ],
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "iron_axe",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:melon"
+      ],
+      "count": 24
+    },
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:pumpkin"
+      ],
+      "count": 24
+    }
+  ]
+}

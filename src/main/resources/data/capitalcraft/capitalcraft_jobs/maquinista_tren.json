@@ -1,0 +1,23 @@
+{
+  "tier": 2,
+  "wage": 1500,
+  "kit": [
+    {
+      "item": "minecart",
+      "count": 1
+    },
+    {
+      "item": "rail",
+      "count": 64
+    }
+  ],
+  "objectives": [
+    {
+      "type": "stat",
+      "targets": [
+        "minecraft:minecart_one_cm"
+      ],
+      "count": 60000
+    }
+  ]
+}

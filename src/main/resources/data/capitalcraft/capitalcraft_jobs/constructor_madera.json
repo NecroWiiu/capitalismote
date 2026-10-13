@@ -1,0 +1,19 @@
+{
+  "tier": 1,
+  "wage": 1100,
+  "kit": [
+    {
+      "item": "iron_axe",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "#minecraft:planks"
+      ],
+      "count": 128
+    }
+  ]
+}

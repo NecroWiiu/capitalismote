@@ -1,0 +1,26 @@
+{
+  "tier": 2,
+  "wage": 1600,
+  "kit": [
+    {
+      "item": "crafting_table",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:repeater"
+      ],
+      "count": 6
+    },
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:observer"
+      ],
+      "count": 4
+    }
+  ]
+}

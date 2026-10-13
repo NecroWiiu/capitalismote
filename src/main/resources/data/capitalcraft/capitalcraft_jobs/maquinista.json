@@ -1,0 +1,27 @@
+{
+  "tier": 2,
+  "wage": 2000,
+  "kit": [
+    {
+      "item": "crafting_table",
+      "count": 1
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:piston",
+        "minecraft:sticky_piston"
+      ],
+      "count": 6
+    },
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:hopper"
+      ],
+      "count": 4
+    }
+  ]
+}

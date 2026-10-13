@@ -1,0 +1,26 @@
+{
+  "tier": 2,
+  "wage": 2300,
+  "kit": [
+    {
+      "item": "furnace",
+      "count": 1
+    },
+    {
+      "item": "coal",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "craft",
+      "targets": [
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots"
+      ],
+      "count": 4
+    }
+  ]
+}

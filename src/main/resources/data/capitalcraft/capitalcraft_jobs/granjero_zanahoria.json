@@ -1,0 +1,30 @@
+{
+  "tier": 1,
+  "wage": 1100,
+  "kit": [
+    {
+      "item": "iron_hoe",
+      "count": 1
+    },
+    {
+      "item": "carrot",
+      "count": 36
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "minecraft:carrot"
+      ],
+      "count": 32
+    },
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:carrots"
+      ],
+      "count": 48
+    }
+  ]
+}

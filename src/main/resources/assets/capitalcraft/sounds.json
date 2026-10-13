@@ -1,0 +1,92 @@
+{
+  "ui_click": {
+    "sounds": [
+      "capitalcraft:ui_click"
+    ],
+    "subtitle": "subtitles.capitalcraft.ui_click"
+  },
+  "spin_tick": {
+    "sounds": [
+      "capitalcraft:spin_tick"
+    ],
+    "subtitle": "subtitles.capitalcraft.spin_tick"
+  },
+  "spin_start": {
+    "sounds": [
+      "capitalcraft:spin_start"
+    ],
+    "subtitle": "subtitles.capitalcraft.spin_start"
+  },
+  "win": {
+    "sounds": [
+      "capitalcraft:win"
+    ],
+    "subtitle": "subtitles.capitalcraft.win"
+  },
+  "jackpot": {
+    "sounds": [
+      "capitalcraft:jackpot"
+    ],
+    "subtitle": "subtitles.capitalcraft.jackpot"
+  },
+  "lose": {
+    "sounds": [
+      "capitalcraft:lose"
+    ],
+    "subtitle": "subtitles.capitalcraft.lose"
+  },
+  "coin": {
+    "sounds": [
+      "capitalcraft:coin"
+    ],
+    "subtitle": "subtitles.capitalcraft.coin"
+  },
+  "cash": {
+    "sounds": [
+      "capitalcraft:cash"
+    ],
+    "subtitle": "subtitles.capitalcraft.cash"
+  },
+  "gpu_hum": {
+    "sounds": [
+      "capitalcraft:gpu_hum"
+    ],
+    "subtitle": "subtitles.capitalcraft.gpu_hum"
+  },
+  "shift_start": {
+    "sounds": [
+      "capitalcraft:shift_start"
+    ],
+    "subtitle": "subtitles.capitalcraft.shift_start"
+  },
+  "shift_end": {
+    "sounds": [
+      "capitalcraft:shift_end"
+    ],
+    "subtitle": "subtitles.capitalcraft.shift_end"
+  },
+  "trade_buy": {
+    "sounds": [
+      "capitalcraft:trade_buy"
+    ],
+    "subtitle": "subtitles.capitalcraft.trade_buy"
+  },
+  "trade_sell": {
+    "sounds": [
+      "capitalcraft:trade_sell"
+    ],
+    "subtitle": "subtitles.capitalcraft.trade_sell"
+  },
+  "error": {
+    "sounds": [
+      "capitalcraft:error"
+    ],
+    "subtitle": "subtitles.capitalcraft.error"
+  },
+  "alert": {
+    "sounds": [
+      "capitalcraft:alert"
+    ],
+    "subtitle": "subtitles.capitalcraft.alert"
+  }
+}

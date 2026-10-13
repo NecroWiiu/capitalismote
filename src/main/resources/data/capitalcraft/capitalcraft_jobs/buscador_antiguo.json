@@ -1,0 +1,23 @@
+{
+  "tier": 3,
+  "wage": 4500,
+  "kit": [
+    {
+      "item": "diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "torch",
+      "count": 16
+    }
+  ],
+  "objectives": [
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:ancient_debris"
+      ],
+      "count": 2
+    }
+  ]
+}

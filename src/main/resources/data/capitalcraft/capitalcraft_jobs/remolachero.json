@@ -1,0 +1,30 @@
+{
+  "tier": 1,
+  "wage": 1000,
+  "kit": [
+    {
+      "item": "iron_hoe",
+      "count": 1
+    },
+    {
+      "item": "beetroot_seeds",
+      "count": 36
+    }
+  ],
+  "objectives": [
+    {
+      "type": "use",
+      "targets": [
+        "minecraft:beetroot_seeds"
+      ],
+      "count": 32
+    },
+    {
+      "type": "mine",
+      "targets": [
+        "minecraft:beetroots"
+      ],
+      "count": 32
+    }
+  ]
+}

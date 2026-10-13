@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "capitalcraft:block/gpu_basic_top",
+    "front": "capitalcraft:block/gpu_basic_front_on",
+    "side": "capitalcraft:block/gpu_basic_side"
+  }
+}

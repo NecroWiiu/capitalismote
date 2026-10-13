@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "capitalcraft:gpu_basic",
+    "capitalcraft:gpu_advanced",
+    "capitalcraft:gpu_elite"
+  ]
+}
